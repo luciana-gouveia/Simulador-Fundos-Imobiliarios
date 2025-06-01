@@ -16,9 +16,6 @@ Este projeto é parte do desafio da DIO e tem como objetivo criar uma ferramenta
 - GitHub para documentação
 - Markdown para estrutura do README
 
-## 📸 Capturas de Tela
-(Imagens salvas na pasta `/images`)
-
 ## 📂 Como usar
 
 1. Baixe a planilha.
