@@ -8,7 +8,7 @@ Este projeto é parte do desafio da DIO e tem como objetivo criar uma ferramenta
 - Projeção de rendimento composto
 - Cálculo automático de patrimônio final
 - Estimativa de dividendos mensais
-- Gráficos interativos
+- Gráfico interativo
 
 ## 🛠️ Tecnologias utilizadas
 
