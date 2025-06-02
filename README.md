@@ -1,28 +1,46 @@
-# 🏢 Simulador de Investimentos em Fundos Imobiliários - Excel
+# 📊 Planilha de Apoio à Declaração de Imposto de Renda - Projeto DIO
 
-Este projeto é parte do desafio da DIO e tem como objetivo criar uma ferramenta prática de simulação de investimentos em fundos imobiliários utilizando Excel. A planilha ajuda investidores a visualizarem o crescimento do patrimônio e os dividendos ao longo do tempo.
+Este projeto foi desenvolvido como parte do desafio prático da DIO, com o objetivo de criar uma **ferramenta no Excel** que auxilie na **organização de informações essenciais** para a declaração anual do Imposto de Renda de Pessoa Física (IRPF).
 
-## 💡 Funcionalidades
+## 🧠 Objetivos de Aprendizagem
 
-- Simulação de aportes mensais
-- Projeção de rendimento composto
-- Cálculo automático de patrimônio final
-- Estimativa de dividendos mensais
-- Gráfico interativo
+- Aplicar conceitos de Excel em um ambiente prático e funcional.
+- Criar uma interface amigável e interativa.
+- Documentar o projeto de forma clara e organizada.
+- Utilizar o GitHub para compartilhar documentação técnica.
 
-## 🛠️ Tecnologias utilizadas
+---
 
-- Microsoft Excel
-- GitHub para documentação
-- Markdown para estrutura do README
+## 🛠️ Funcionalidades da Planilha
 
-## 📂 Como usar
+✅ Interface intuitiva com menus de navegação  
+✅ Controle de rendimentos, despesas dedutíveis, bens e direitos  
+✅ Campos com validação de dados e preenchimento automático  
+✅ Links úteis para o site da Receita Federal  
+✅ Formatação condicional para facilitar visualização  
+✅ Possibilidade de adicionar dependentes e verificar alterações da entrega anterior  
+✅ Pronta para ser usada como base em futuras declarações
 
-1. Baixe a planilha.
-2. Preencha os campos em amarelo com suas informações.
-3. Veja os resultados e gráficos se atualizarem automaticamente.
+---
+
+## 🗂️ Estrutura da Planilha
+
+| Aba | Descrição |
+|-----|-----------|
+| **Dashboard** | Visão geral dos dados com gráficos e KPIs |
+| **Dados Pessoais** | Cadastro completo do contribuinte e cônjuge |
+| **Rendimentos** | Salários, aposentadorias, aluguéis e afins |
+| **Despesas Dedutíveis** | Gastos com saúde, educação, previdência, etc. |
+| **Bens e Direitos** | Veículos, imóveis, contas bancárias |
+| **Resumo e Instruções** | Informações úteis sobre uso e envio da declaração |
+
+---
+
+## 🧪 Exemplos de Dados Fictícios
+
+*Esses dados foram usados como exemplo para simulação de preenchimento.*
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTc0MDc2MTEsOTg3NDcxODAwXX0=
+eyJoaXN0b3J5IjpbNTQwNDU1NTM0LDk4NzQ3MTgwMF19
 -->
